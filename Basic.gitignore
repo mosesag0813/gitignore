@@ -1,0 +1,10 @@
+lib/
+git/lib understand
+bin/install
+bin/lib install
+
+# Initialized files
+*.b
+*.exe
+*.ini
+*.basic
