@@ -1,0 +1,13 @@
+
+# Header files
+*.pkg
+*.apples
+*.build
+
+# Executable Files
+*.exe
+*.epkg
+*.xpkg
+
+.DS_Store
+updates.log
